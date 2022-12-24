@@ -1,0 +1,15 @@
+.NumberButtonDiv {
+  float: left;
+  width: 33.3%;
+  height: 50px;
+}
+
+.NumberButton {
+  border: none;
+  border-right: 0.5px solid black;
+  border-bottom: 0.5px solid black;
+  background-color: rgb(242, 244, 246);
+  width: 100%;
+  height: 100%;
+  
+}

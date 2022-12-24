@@ -1,0 +1,43 @@
+
+.numberDiv {
+  float: left;
+  width: 75%;
+  
+}
+
+
+.equalDiv {
+  height: 100%;
+  background-color: antiquewhite;
+}
+.equalDiv button {
+  height: 100%;
+  border: none;
+background-color: antiquewhite;
+}
+
+.rightbtn {
+  width: 25%;
+  border-top: none;
+  border-bottom: 0.5px solid black;
+  border-left: none;
+  border-right: none;
+  
+}
+.divisionButton {
+  height: 50px;
+}
+.equalBtn {
+
+  height: 200px;
+
+}
+
+.num {
+  border: none;
+  border-right: 0.5px solid black;
+  border-bottom: 0.5px solid black;
+  background-color: rgb(242, 244, 246);
+  width: 33.3%;
+  height: 50px;
+}
